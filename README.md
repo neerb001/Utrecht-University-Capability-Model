@@ -1,6 +1,6 @@
 # Utrecht University Capability Model (UUCM)
 
-![Utrecht University Logo]([assets/uu-logo.png](https://www.uu.nl/sites/default/files/styles/image_1600xn/public/cm_hs_new_logo_2021.png?mt=1627028615&itok=0e4AIjFy))
+![Utrecht University Logo](assets/uu-logo.png)
 
 ## Description & Usage
 
