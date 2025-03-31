@@ -194,7 +194,7 @@ While the UUCM was created for Utrecht University, we encourage other higher edu
 - Use this model as a starting point for developing their own capability frameworks
 - Adapt the capabilities to match their specific organizational structure and priorities
 - Share improvements and extensions back with the community
-- Collaborate on evolving the Higher Education Reference Model for the benefit of all institutions
+- Collaborate on evolving the Capability Model for the benefit of all institutions
 
 ## License
 
