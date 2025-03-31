@@ -18,7 +18,7 @@ Furthermore, the UUCM can be enhanced with overlays and heatmaps to provide addi
 
 A capability is a description of *what* the university does to create value. Capability Mapping is a method to structure and understand all activities of the university and the associated skills and resources.
 
-The capabilities are organized into categories, for value streams please refer to our separate Value Stream Models.
+The capabilities are organized into categories not value streams.
 
 A Capability is a combination of People, Process, Information and Technology necessary to deliver the outcomes to achieve business objectives. The capabilities support the realisation of the UU strategy.
 
