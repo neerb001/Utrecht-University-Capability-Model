@@ -96,4 +96,4 @@ Contact the UU Architecture Team via [architectuur@uu.nl](mailto:architectuur@uu
 
 ---
 
-© Utrecht University, 2025. All rights reserved.# Utrecht University Capability Model (UUCM)
+© Utrecht University, 2025. All rights reserved.
