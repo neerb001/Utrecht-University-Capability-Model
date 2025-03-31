@@ -26,7 +26,8 @@ A Capability is a combination of People, Process, Information and Technology nec
 
 ```
 ├── models/            # Capability model files
-│   ├── descriptions.md                         # Detailed descriptions of all capabilities
+│   ├── descriptions.md                           # Detailed descriptions of all capabilities
+|   |__ UUCMv1.0.xlsx                             # Detailed description of all capabilities in excel format
 │   ├── UU Business Capability Model L1 v1.0.png  # Level 1 capability model diagram
 │   ├── UU Business Capability Model L1 v1.0.xml  # Level 1 model in draw.io format
 │   ├── UU Business Capability Model L2 v1.0.png  # Level 2 capability model diagram
